@@ -1,0 +1,316 @@
+# Speed Dating: Needs Validation & User Enactments
+Workshop taught by [John Zimmerman](http://www.cs.cmu.edu/~johnz/)
+
+Disconnect and the *real* product opportunity space: the gap between observed needs from user research & perceived needs from user assessment
+
+Design process: exploration, ideation, iteration: the moment in time between ideation and iteration (making a decision to continue)
+
+### Concept Validation
+- "Focus" group showing conceptual designs as storyboards
+- Ask if they recognize need, not if they want the solution
+- overlap between users' perceived and researchers observed need
+
+### The Story Continues
+- Worked surprisingly well to reveal opportunity, not test concept
+- applied many times:
+  - collaboration between machine intelligence and human intelligence
+  - ubiquitous computation: interactive experiences
+  - social computing: crowd-sourcing
+- refined with use
+
+### Speed dating as field work on the future
+- many quick, fake dates
+- no sense of other, but greater sense of what you want in your future
+
+Confirmation of much of what we identified as needs, but new focus on what people really want: the better opportunity
+Many sessions helped reveal guiding principle: get people to see past immediate busyness and focus on long-term goal
+
+## How to do Speed Dating
+
+### 1. Finding where to dig
+- draw out insights and opportunities from literature, fieldwork, etc
+- brainstorm / body-storm ideas using each insight as a perspective
+- cluster concepts and give these thematic names
+- reflect on where you see tech as having best impact
+
+### 2. Reduce Down to Key Scenarios
+- iteratively rate and combine / filter concepts while simultaneously drawing out hunches
+- render them as scenarios and watch for opportunities to push social boundaries
+- crit and push down to ~10 scenarios
+- document as a 2-to-4 panel scenario: person in place having common experience
+- generate a lead question that refocuses discussion on underlying hunch/need
+
+#### Scenario Structure
+- situate a character within a situation your participants will find familiar
+- reveal how design interjects and transforms the situation
+- reveal how product meets the needs you want to address... experience post-use
+- provide very little detail on how it works
+
+##### 1. Introduce:
+- introduce yourself and the participants
+- conduct a warm-up conversation on the topic... get participants to share with each other
+- 1 facilitator, 1 note-taker
+
+##### 2. Share concepts:
+- show concepts one at a time... have a copy for each participant
+- read aloud
+- use Lead to start discussion (do they perceive need)
+- focus on need and let context, value, resources, and interaction come from discussion, not from scenario
+
+##### 3. Facilitate:
+- do NOT discuss how it could be done
+- do NOT allow talk about friends (the hypothetical user), focus on their needs
+- probe on triggers: dig below the surface to get at why
+
+##### 4. Debrief:
+- do you know where the opportunity is?
+- did you discover a new or refine a previously identified opportunity?
+- can you improve the process?
+- should you add or drop storyboards?
+- do you need to have enactments to gain clarity?
+
+## Gist: it's about managing risk
+- risky to make new products / services
+- how do you know which concept you should select for iteration?
+- when do you switch from sketching to prototyping?
+- about validating need, not concept
+- about finding a better framing
+
+## Speed dating: gain insight on real opportunities
+- connecting current experience to future
+- watch and listen
+- dig on triggers
+- takes time: especially enactment,s but making the wrong product takes even more time
+
+# History and Future of Interaction Techniques
+Workshop taught by [Brad A. Myers](http://www.cs.cmu.edu/~bam/)
+
+## "Interaction Techniques"
+- Scroll bars, buttons, text fields
+- Also:
+  - Drawing a new object in an editor
+  - Copy and Paste
+  - Selecting a cell in a spreadsheet
+- How high level? Text editor widget, but not Word
+
+Examples:
+- Visual Basic
+- Physical controls (DSLR camera)
+
+Other names:
+- widgets "GUI widgets"
+- GUI elements
+- gadgets
+- controls (Windows)
+- components (too generic)
+- behaviors
+
+Definition: an "interaction technique" starts when the user does something that causes a computer to respond, includes the direct feedback, and is portable across software systems.
+
+Not including whole applications, dashboard widgets, or output only (visualizations, animations, movies, progress bars)
+
+### Why study interaction techniques?
+- Extensively used, interesting historically, and new interaction techniques are created all the time (bounce at the end of the list, pull down to refresh)
+- High economic value (Apple vs Samsung end-of-list lawsuit)
+- Need new ones: desktop metaphor is getting tired, text entry on smartphones is a barrier
+
+### Why are they hard to design?
+- Surprisingly large number of design decisions, individual differences and preferences, lots of details that impact human performance (how far the cursor moves when you move the mouse 1"; how far does the content move on an iPhone when you flick your finger?)
+- Example: check box - how many "states" can it be in? 48 states
+- What happens when you move upwards past the start point?
+
+### Affordances
+- Perceived and actual properties of the thing, primarily those fundamental properties that determine how the thing could possibly be used
+  - when accordances are taken advantage of, the user knows what to do just by looking
+- Helps people understand what to do with the control
+
+### 'Character Terminals'
+- Still around as "DOS prompts" and command prompts
+
+### Ivan Sutherland's Sketchpad system: 1963
+- "light pen" pointing device
+- invented many important interaction techniques, e.g., direct manipulation, rubber band lines, snapping to a grid or other objects, constraint-based drawing, prototype-instance drawing
+- Lots of individual physical controls and knobs
+
+### SRI and the Mouse
+- Bill English and Dough Englebart credited with the invention of the mouse
+- NLS, or the "oN-Line System" (the Mother of All Demos)
+
+### Xerox PARC (Palo Alto Research Center)
+- founded by Xerox in 1970 to invent the future of office technology
+- hired many people from SRI
+- incredible collection of inventions 1970-1982
+- Invented workstations, laser printing, Ethernet, bitmapped displays
+- Invented many of the standard OS window management, MVC architecture, the first version of PostScript, Interpress
+
+### Xerox Alto Machine
+- Everyone at the time was using mainframes or "mini computers" that were shared ("Time Sharing")
+- Alto was one of the first "personal workstations" (1973)
+- No operating system each program had its own libraries and low-level access mechanisms
+- Three-button mouse with two opposite roller wheels
+  - Red, Yellow, Green buttons vertically
+  - switched to horizontal layout
+
+### "Bravo"
+- Butler Lampson, Charles Simonyi, 1974 (Simonnyi left to MS and created Word)
+- First WYSIWYG text editing
+- Multiple fonts, bold, italics, etc
+- Justification
+- Interaction techniques were quite different
+
+### Smalltalk
+- Started ~1972 as the first purely object-oriented language by Alan Kay
+- proposed the idea of overlapping windows in his 1969 doctorial thesis
+- Overlapping windows first appeared in 1974 in the Smalltalk '74 system
+- Also used popup windows, scroll bars, etc.
+
+### Various drawing programs on Alto
+- Draw - cubic splines for curves
+- Markup - in-place pop-up context menus
+
+### Larry Tesler
+- Xerox PARC 1973
+- Rejected highly moded interactions of Bravo
+- with Tim Mott, et. al, invented non-moded interactions for Gypsy editor (including copy and paste) about 1974
+- reaction to awkward editing in NLS
+- copy and paste added to Smalltalk in 1976
+- went to Apple in 1980, brought copy and paste, in charge of the Lisa design team
+
+### "Workstations"
+- Alto, LISP (LMI), Sun, Apollo, PERQ, Silicon Graphics
+- about $10,000 each
+- for scientists, engineers, programmers
+- had mouse, window managers
+
+### Xerox Star
+- Released in 1982, designed for executives (still too expensive for secretaries)
+- large team of designers who were *not* from PARC
+- Extensive user interface studies guided designs
+- key innovations (desktop metaphor, many modern widgets, WYSIWYG editing and drawing)
+- No PPT or Spreadsheets
+- Mostly closed - only Xerox made applications
+- Too expensive and seemed slow
+
+### Apple
+- Xerox wanted to invest in Apple, but in exchange, Steve Jobs got the right to use all of Xerox's IP
+- Steve Jobs & Bill Atkinson were given a demo of various Alto programs in 1979
+
+### Apple Lisa
+- 1983, original design for desktop
+- novel pull-down menus (at top of screen)
+- dialog boxes
+- one-button mouse
+- amazing programming expertise to get it to work on a tiny, inexpensive machine
+
+### Original Macintosh
+- 1984, much cheaper than Lisa, no hard disk (just one floppy)
+- 128k memory
+- famous 1984 Ridley Scott Super Bowl ad
+
+### HyperCard
+- Atkinson, 1987
+- "programming for the rest of us"
+- one of the first prototyping systems
+- many UI innovations: tear-off menus, pages that overlay each other, animated transitions
+- Programmed in "hypertalk," an English-like language
+
+### PCs and Windows
+- IBM PC - 1981, IBM had missed the "minicomputer" phase dominated by DEC
+- used MS DOS and shipped with VisiCalc
+- Windows 1.0 released in 1985 as DOS extension (tiled window manager)
+- Windows 2.0 in 1990, 3.1 in 1992 (added virtual memory, protected multiple processing, etc.)
+
+## History of Handhelds (PDAs, Smartphones & Tablets) and their Interaction Techniques
+
+### Early handwriting input
+- used term: "pen-computing"
+- early hand printing
+- Rand Tablet (1964)
+- gesture: timing and path of finger matters
+
+### "Ubiquitous Computing"
+- Term coined by Mark Weiser at Xerox PARC, 1988
+- "I called these three sizes of computers boards, pads, and tabs, and adopted the slogan that, for each person in an office, there should be hundreds of tabs, tens of pads, and one or two boards."
+
+### PARC Tab
+- ~1989, low speed wireless using IR and a touch-sensitive screen
+- quick writing - unistrokes, write on top of each other
+
+### Go Corp's "PenPoint" OS
+- founded in 1987, released in 1991
+- hardware by NCR, IBM and EO, styled to look like a tabbed notebook
+- conventional tapping on menus, lots of gestures for editing, page turning, etc. (flick to scroll and turn pages, circle, insert space, cross-out, insert word, get help...), press and hold to start moving or selecting
+- hand-printing for text entry
+- hyperlinks, instant on-off
+
+### Apple Newton
+- Started 1987, released 1993
+- Newton "MessagePad"
+- coined the term "Personal digital assistant (PDA)"
+- on sale for 6 years, fairly large and heavy
+- key issue: handwriting recognition was main input technique, which was very buggy and not successful
+
+### Early phones & PDAs
+- IBM Simon (shipped in 94)
+- Nokia 9110 Communicator (added full physical keyboard)
+
+### Palm
+- US Robotics (1995), 3Com (1997), Handspring (1998), Palm (2000), HP (2010)
+- first version was the "Pilot" (name changed due to lawsuit)
+- lots of user testing with prototypes using HyperCard
+- graffiti for data entry:
+  - had seen Xerox QuickWriting (lawsuit)
+  - designed to be easier to learn, still required practice, unistroke except for X
+  - two sides: numbers look the same as some letters
+- design principles:
+  - Fast access to key features on small screens
+  - only a few commands used a lot
+  - leave commands off main screen, even if not symmetric (new vs delete)
+  - note that violates consistency
+  - tap and then type in schedule and to-do
+  - only four buttons (which ones?)
+
+### Palm Watch
+- Made by Fossil, 160 x 160 illuminated screen with a stylus integrated into the band, 8MB internal memory, and rechargable battery and standard Palm platform features
+- $250, heavy, short battery life, and tiny stylus
+
+### Palm Phones
+- Kyocera QCP-6035, about 2001
+  - physical phone buttons, or regular Palm
+  - low-speed Internet
+- Handspring (then Palm) Treo
+  - Blackberry-like keyboard replaced Graffiti
+  - started in 2002
+
+### RIM Blackberry
+- email & pager, two-thumb keyboard, roller dial (scroll wheel) for navigation, eventually became 2D navigation
+- later, regular phone networks
+- awkward attempts at full-screen touchscreen
+- insufficient 3rd party applications (late to have good APIs)
+
+### Early wireless phone UIs
+- 1993 - first Nokia soft keys and scrolling (standard on 2 or 4 directions, 3 action keys)
+- Motorola Razr - 2004
+- Text entry by multi-tap or T9 (not touch-screens)
+- WAP: starting 1997 (wireless application protocol), bring web-like access to these devices, terrible usability
+
+### Windows TabletPC
+- 2001 spec (Windows XP)
+- Bill Gates said it would be big (2002), handwriting recognition made things OK but not sufficiently accurate
+- Windows UI, was not changed for pens (quite poor UIs for correction)
+
+### iPod
+- 2001, Apple lauded for design and UI
+- unique dial interaction technique with a highly tuned speed ratio, grafted on to a 5GB hard drive that put "1,000 songs in your pocket"
+- iTunes -> entire *service design*
+
+### iPhone
+- went against conventional wisdom: no physical keyboard, used a capactive screen, no stylus, only one button
+- some unique interaction techniques (scroll bounce, swipe login)
+
+### iPad
+- 2010: different from TabletPC - focused on consuming media rather than authoring
+
+## The Future of Pointing
+- [Skinput](http://doi.acm.org/10.1145/1753326.1753394): appropriating the body as an input surface (Chris Harrison, Desney Tan, and Dan Morris, 2010)
+- [TapSense](http://doi.acm.org/10.1145/2047196.2047279): enhance finger interaction on touch surfaces, can identify which part of the finger is tapping using the microphone
