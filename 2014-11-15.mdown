@@ -1,0 +1,104 @@
+# What Makes Things Cool?  
+Presented by [Karen Holtzblatt](http://www.incontextdesign.com)
+
+## Contextual Design
+1. Contextual Inquiry: talk to your customers in the field
+2. Interpretation Session: interpret the data as a team to capture key issues & activities
+3. Work Models & Affinity Diagramming: consolidate data across customers for a full market view
+4. Visioning: generate new products & the next product concepts steeped in data
+5. Storyboards: work out the details of particular tasks and roles
+6. Interaction Patterns & User Environment Design: define system structure, function, content, & user interaction
+7. Paper Prototype Interviews: mock up the interface to validate direction and UI with customers
+8. Visual Design & Agile Stories: design and test the final look; base stories on validated function
+
+This approach worked for 25 years until hand-held computing with touch became widespread—changed the language of design and shifted how technology impacted people's lives.
+
+### The Cool Project
+- What are the attributes and experience of a compelling product?
+- How does the experience of cool change as we age?
+- How do our "cool tools" impact our lives?
+- What are the key levers that drive cool in a product?
+- Can business products be cool too?
+
+- Field data from 90 consumers & professionals from 16-60 years old
+- Validated through a survey with > 1900 more US & international 
+- Confirming cool metrics
+
+## Joy and Delight: the Core of Cool
+The core component of a "cool" experience is joy. But what creates joy? The what and how: joy in life (wheel) and joy in use (triangle)
+
+### The Wheel: Joy in Life
+
+#### Accomplishment
+There is nothing stopping anyone from accomplishing any task at any time.
+
+- Anytime, anywhere access to work and life activities
+- Design activities to work across time, place, and platform
+- Provide up-to-date information for work or life in moments
+
+#### Connection
+Make intimate relationships better.
+
+- Frequency, conversational content, doing together
+- Feel connected to the people that matter for an activity
+- Smoothly manage and collaborate with the people involved
+
+#### Identity
+A "cool" tool makes a person feel like the best version of their identity.
+
+- Celebrate and express our best selves
+- Help people manifest identity elements core to an activity
+- Let people collect and share accomplishments
+
+#### Sensation
+- Evoke sensual delight—create a smile
+- Enhance mood with color, sound, movement, animation...
+- Deliver a modern aesthetic experience—it's expected
+- Create fun and surprise but avoid gratuitous stimulation
+
+### The Triangle: Joy in Life
+
+#### Direct into Action
+Joyful things happen instantaneously in the momentum of life
+
+- Create magic—go from thought to result instantly
+- Bring it all together at the point of action
+- Think for me: automate or support no-thought decisions
+
+#### The Hassle Factor
+Alleviate pain and make someone go, "Thank god that's over."
+
+- The joy of relief: eliminate all tool hassle
+- Set up, log in, number of place to find or access function...
+- "Good enough" is not good enough any more
+- Any set-up, preferences, configuration for any software at any time
+
+#### The Learning Delta
+No one will stretch to learn your tool.
+
+- Get started in moments—learning is invisible
+- Build on established & natural ways of interacting: touch, voice, moment, typing...
+- Eliminiate complexity—instant into use
+
+## Design for Life
+Transform your products for the next generation users and platforms
+
+manufacturing cool means:
+- different user data to collect
+- different ways to represent it
+- new ideation activities to use it
+- design principles to guide teams
+
+New data and new modeals drive design thinking
+Walk the affinity model: the bridge from data to design (how do I use the data and have it drive a product concept?)
+Contextual design models stimulate design thinking
+
+### The Cool Drill Down and Cool Design Principles
+- Beyond monolithic appliactions: design for small
+- Activity flows across place, time & platform
+- Nothing should be designed for task or platform—design for life itself
+- Measure product "coolness": 40-question survey, 7 minutes
+
+## *Intentionally* Design for Transformation
+
+Book: *Contextual Design Evolved* (Morgan & Claypool, 2014)
