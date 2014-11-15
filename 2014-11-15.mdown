@@ -177,3 +177,70 @@ We also need to escape the small confines of mobile devices to take touch everyw
 Examples:
 - [OmniTouch: Wearable Multitouch Interaction Everywhere](http://www.chrisharrison.net/projects/omnitouch/omnitouch.pdf)
 - [WorldKit: Rapid And Easy Creation Of Ad-hoc Interactive Applications On Everyday Surfaces](http://dl.acm.org/citation.cfm?id=2466113)
+
+- - - 
+
+# From User Experience to Customer Experience
+[Kerry Bodine](http://www.twitter.com/kerrybodine) (Author of *Outside In: The Power of Putting Customers at the Center of Your Business*)
+
+- 1995: Designed & developed first web app at AT&T Bell Labs
+- 1996: Webmaster for IUAA
+- 1999 - 2001: Managed a web design & dev team at a .com
+- 2002 - 2004: MHCI at CMU, developer & interaction designer, wearables blog ([styleborg.com](http://www.styleborg.com))
+- 2004: Analyst at [Forrester Research](https://www.forrester.com/home/), used [heuristic evaluations](http://en.wikipedia.org/wiki/Heuristic_evaluation) the most
+
+"Voice of the Customer" became an industry hot-button around 2007. Started asking questions such as, "When will companies appoint Chief Experience Officers?" Then, they did. (A senior-level executive charged with looking after a company's entire customer experience.)
+
+User Experience to Customer Experience: make every single interaction easy and valuable for customers. Look beyond just the digital interactions—look into every interactive touchpoint.
+
+[IBM: The Customer-Activated Enterprise](http://www.ibm.com/midmarket/us/en/att/pdf/Customer_activated_Enterprise_MM_final.pdf)
+- Open up to customer influence
+- Pioneer digital-phyiscal innovation
+- Craft engaging customer experiences
+
+Gartner: 89% of companies survieyed plan to compete primarily on the basis of customer experience
+
+## Why do executives care about customer experience?
+
+**Premium Pricing:** 81% of customers are willing to pay more for a better customer experience (about 5% more)
+
+**Additional Purchases**: 70% of customers have stopped buying from a company based on bad customer experience; 64% have taken their business elsewhere
+
+**Word of Mouth**: If I have a great experience, I will tell all my friends.
+
+## Customer Experience Design
+
+**Customer Experience Management:** the continuous improvement of existing customer interactions
+
+**Closed-loop Voice of the Customer program:**
+- Listen: send out surveys and ilicit responses to the company's customer service
+- Prioritize: top problems to fix
+- Fix: fix the problem
+- Respond: respond to the customer
+
+### Net Promoter Score
+
+How likely are you to recommend *x* to a friend or colleague? (0-10)
+- 0-6: detractors
+- 7-8: passives
+- 9-10: promoters
+
+NPS = % promoters - % detractors
+
+**Customer Experience Design:** essentially, service design.
+
+**Service Design:** The proactive definition of ideal customer journeys and the ecosystems required to deliver and support them.
+
+There are frequent disconnects between those making service promises and those who must live up to (or fulfill) those promises.
+
+Tools:
+- Journey Maps: Understand the journey of the customer experience
+- Service Blueprint: shows what's going on in the customer journey and behind the scenes in the ecosystem
+
+## How it Fits Together
+Continuum ranges from design to management, user experience design to customer experience
+
+Service Design & UX gets you to day 1 (launch of product), then someone has to manage the experience after launch (CX management). Fuse Service Design & UX efforts along the way for improvements.
+
+
+
