@@ -1,4 +1,4 @@
-# What Makes Things Cool?  
+# What Makes Things Cool?
 Presented by [Karen Holtzblatt](http://www.incontextdesign.com)
 
 ## Contextual Design
@@ -21,7 +21,7 @@ This approach worked for 25 years until hand-held computing with touch became wi
 - Can business products be cool too?
 
 - Field data from 90 consumers & professionals from 16-60 years old
-- Validated through a survey with > 1900 more US & international 
+- Validated through a survey with > 1900 more US & international
 - Confirming cool metrics
 
 ## Joy and Delight: the Core of Cool
@@ -103,10 +103,77 @@ Contextual design models stimulate design thinking
 
 Book: [*Contextual Design Evolved*](http://www.amazon.com/Contextual-Design-Evolved-Karen-Holtzblatt/dp/1627055584) (Morgan & Claypool, 2014)
 
+- - -
+
 # Former and Current Program Heads on Education in HCII
 Panel discussion.
+
+- - -
 
 # HCII Alum in Industry
 Panel discussion.
 
+- - -
 
+# The Future of Interaction
+
+## Making the Whole World Interactive: Interaction at Scale
+[Ivan Poupyrev](http://www.ivanpoupyrev.com/) (Google, formerly Disney Research)
+
+How can we make **highly interactive physically collected** experiences at Disney parks?
+
+An interaction system delivering great user experience over large geographical areas, in indoor and oudoor conditions, under direct sunlight and in near darkness, invisible to users, children, adult and idiot-proof, obscured be foliage, glass, paint, dust, etc., with no modification to existing infrastructure, requiring little to no maintenance, highly reliable, at a very low cost.
+
+In other words, *interaction that scales in multiple dimensions.*
+
+Examples:
+- [Touché Sensor](http://www.disneyresearch.com/project/touche-touch-and-gesture-sensing-for-the-real-world/)
+- [Paper Generators](http://www.disneyresearch.com/project/paper-generators/)
+
+## The Future of Interaction: Let's Nail It, So We Can Scale It
+[Desney Tan](http://research.microsoft.com/en-us/um/people/desney/) (Microsoft)
+
+**Input:** modalities that increasingly leverage natural human capabilities, have seen a shift from "reactive" interaction to "proactive" interaction
+
+**Output:** rapid evolution and commodization of visual displays; parallel research into auditory, haptic, and olfactory displays
+
+Examples:
+- [PocketTouch: Through-fabric Capacitive Touch Input](http://research.microsoft.com/apps/video/default.aspx?id=155018)
+- [Skinput: Appropriating the Body as an Input Surface](http://www.chrisharrison.net/index.php/Research/Skinput)
+- [OmniTouch: Wearable Multitouch Interaction Everywhere](http://www.chrisharrison.net/projects/omnitouch/omnitouch.pdf)
+- [Sensing Finger Gestures With Muscle-computer Interfaces](http://research.microsoft.com/en-us/um/redmond/groups/cue/muci/)
+- [Digits: Freehand 3D Interactions Using A Wrist-Worn Gloveless Sensor](http://dl.acm.org/citation.cfm?id=2380116.2380139)
+- [Using a Wearable Sensor to Find, Recognize, and Count Repetitive Exercises](http://research.microsoft.com/en-us/um/redmond/groups/cue/publications/Morris_Workout_CHI_2014.pdf)
+- [Humantenna: Sensing Whole-body Gestures Using The Human Body As Antenna](http://research.microsoft.com/en-us/um/redmond/groups/cue/humantenna/)
+- [Optically Sensing Tongue Gestures for Computer Input](http://research.microsoft.com/en-us/um/people/ssaponas/publications/tongueinput_uist_2009.pdf)
+- [Medical Sensing via a Contact Lens](http://www.microsoft.com/en-us/researchconnections/science/stories/functional-lens.aspx)
+
+> "The future is already here, it's just not evenly distributed." - William Gibson
+
+e.g., the Bill Buxton [Long Nose of Innovation](http://www.billbuxton.com/01%20The%20Long%20Nose%20of%20Innovation%20Revised.pdf) (the bulk of innovation is behind the wow)
+
+Our job is to get it distributed.
+
+### Designing for Impact and Scale
+- Excitement over novelty, thirst for value
+- Share more, expose less
+- Scale production, personalize technology
+- More functionality with less technology
+
+## Future of Interaction? Richer and Everywhere
+[Chris Harrison](http://www.chrisharrison.net/projects/omnitouch/omnitouch.pdf) (CMU HCII)
+
+The iPhone 6 is as powerful as the CM-5 was in 1994. In that time, computing factors have increased in power, but human factors have stayed exactly the same. The current industry answer is to link screen size to capability (enormous phablets, useless smartwatches).
+
+Hands have a huge number of capabilities, but touch devices only take advantage of various pokes. Long story short: touch is awesome, but now we need to make it better.
+
+Examples:
+- [TapSense: Enhancing Finger Interaction on Touch Surfaces](http://www.chrisharrison.net/index.php/Research/TapSense)
+- [PointPose: Finger Pose Estimation For Touch Input On Mobile Devices Using A Depth Sensor](http://dl.acm.org/citation.cfm?id=2512824)
+- [TouchTools: Leveraging Familiarity and Skill with Physical Tools to Augment Touch Interaction](http://www.chrisharrison.net/index.php/Research/Touchtools)
+
+We also need to escape the small confines of mobile devices to take touch everywhere. Today, computing happens in little rectangles, but what we really want is to explode computing out into the world.
+
+Examples:
+- [OmniTouch: Wearable Multitouch Interaction Everywhere](http://www.chrisharrison.net/projects/omnitouch/omnitouch.pdf)
+- [WorldKit: Rapid And Easy Creation Of Ad-hoc Interactive Applications On Everyday Surfaces](http://dl.acm.org/citation.cfm?id=2466113)
