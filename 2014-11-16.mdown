@@ -72,7 +72,71 @@ Design submitted to critique, collect and aggregate critiques from crowd workers
 - [Knock x Knock: The Design and Evaluation of a Unified Authentication Management System](https://www.hcii.cmu.edu/hcii20/poster-and-demo-session) *(still in progress)*
 - [DataSquid](http://datasquid.co/) and [Kinetica: Naturalistic Multi-touch Data Visualization](http://jeffrz.com/wp-content/uploads/2014/01/paper1472.pdf)
 
-- - - 
+- - -
 
 # HCII: The History and Future of the Department
 Panel discussion.
+
+- - -
+
+# Theories With a Purpose: Interaction Science
+[Stuart Card](http://en.wikipedia.org/wiki/Stuart_Card) (Stanford University)
+
+- Alphonse Champanis: HCI, Human Factors, man-machine systems, industrial engineering
+- Herbert Simon
+- Elon Musk, "the real Tony Stark"
+- We are entering the second golden age of Human-Computer Interaction: the common metaphor doesn't hold up and will change
+- Three parts of HCI: Design, understand, build. We need more attention on theory in the understanding component
+
+##### Example: Apple Mission Control
+- Designed to solve the problem that there are too many windows to fit on the screen.
+- Smyptomaic problems: system whips to unknown space when starting app, constant visual search to find windows, can't keep windows on the same space.
+- [Locality of Reference](http://en.wikipedia.org/wiki/Locality_of_reference): people perform tasks that span applications -- the application does not dictate the task.
+- [Working Set Theory](http://en.wikipedia.org/wiki/Working_set): if working set fits in real resource, then access time then virtual resource performance like real, else exponential faulting.
+- The Mission Control design is not successful for many reasons; thumbnails are window fault inducers and it's the wrong activity model.
+- How to fix it: implement a preloading policy, and the visual analog is a workspace. Organize applications into workspaces, often repeating applications across virtual desktops.
+
+#### Theories can help...
+1. Explanatory Evaluation:
+  - Apple Mission Control has a major defect.
+  - We can identify what it is.
+2. Generative Design:
+  - we can fix it
+  - my adapting a visual analog of an os policy
+
+#### ...but not all theories.
+- [Human Performance Models for Computer-Aided Engineering](http://dl.acm.org/citation.cfm?id=106605&picked=prox) (1989)
+- Hard to integrate models
+- No models for combined cognitive/perceptual tasks
+- Some models will never be useful (model trade-offs matter)
+
+### Theories With a Purpose
+1. Useful for a practical purpose: can be used to make things
+2. Mechanistic: do this by exercising some lower-level mechanism on a task analysis of the situation
+3. Teachable: can teach strangers
+4. Replicable: strangers get approximately the same answer
+
+#### Theories Without Purpose
+- Frameworks, philosophical stances, and giving an account
+- Gurus don't count (needs to be teachable)
+
+## Easy to Learn and Use
+
+#### Rule of 4-1/2
+- Dropped pennies on the ground. If 3 or fewer items, can quantify almost instantly. If 6 or more items, have to count.
+- **Design so visual items can be processed in groups of 4 or fewer.** (If you're in trouble, you can use 5.)
+- Examples: soft (function) keys on keyboard, groups of 4 menu items on the Mac, book chapters in chunks of 4 or 5
+
+#### Mr. Wizard's Teaching Pattern
+- Hook
+- Explanation
+- Abstraction
+- Application of the abstraction
+
+## Theories with a Purpose in HCI
+Human-Computer Interaction is a discipline concerned with the design, evaluation, and implementation of interactive computing systems for human use and with the study of major phenomena surrounding them.
+
+[Information Foraging theory](http://en.wikipedia.org/wiki/Information_foraging): (Information Gain)/(T<sub>search</sub> + T<sub>consume</sub>)
+- [The VERP Explorer: A Tool for Applying Recursion Plots to the Eye-Movements of Visual-Cognitive Tasks](http://spatial.ucsb.edu/wp-content/uploads/smss2014-Position-Card.pdf)
+
+The dream: Theories With a Purpose can be used to build a discipline and support a new golden age for HCI. The platonic ideal of the user is a figure doing, feeling, and knowing, and the machine is invisible.
