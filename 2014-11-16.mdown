@@ -1,0 +1,73 @@
+# State of the Art in Research: Design and Software and Technology
+
+## Design
+
+### Design for the Self
+[John Zimmerman](http://www.cs.cmu.edu/~johnz/index.html) (HCII, CMU)
+
+##### Reverse Alarm Clock
+- helps parents feel like they are becoming the parents they desire to be
+- keeps small children from waking their parents
+- reduces stress of the morning rush
+
+##### Person-place-time-view
+- learns and displays plans that are often undocumented
+- reduces anxiety around forgetting
+- improves ease of planning
+- feel like better parents
+
+##### Virtual Possession
+- teenager's bedroom where digital ownership was pronounced
+- the room redecorated itself based on who came in the room
+
+##### Depression Detector
+- detects the onset or remission from depression based on changes in:
+- social behavior: call, SMS, email, social networking patterns of communication; location entropy
+
+##### Tiramisu: the real-time bus tracker
+- Port Authority won't pay for multi-million-dollar tracking system
+- allows users to report location data
+
+### Collective Innovation
+[Steven Dow](http://www.cs.cmu.edu/~spdow/) (HCII, CMU)
+
+How can we engage many diverse stakeholders to collectively innovate around complex problems?
+
+##### Collective Synthesis for Conference Scheduling
+Program Committee (~200) -> Authors (~1000) -> Attendees (~3500)
+- Mobile app for suggestions
+- Developed a model for predicting what talks will be popular
+- Organizers use a scheduling tool that surfaces community constraints
+
+##### Social Ideation
+Facilitators monitor ideas and create inspirations to evoke ideation in real time ("What should we name our company?")
+
+##### Multi-stakeholder feedback systems
+Design submitted to critique, collect and aggregate critiques from crowd workers and the client, review and redesign
+
+#### Challenges
+- Collective Synthesis: gathering and synthesizing perspectives and knowledge about a problem
+- Social Ideation: ideating novel solutions while leveraging ideas from others
+- Multi-stakeholder Feedback Systems: obtaining diverse and helpful feedback from stakeholders
+
+## Software and Technology
+[Scott Hudson](http://www.cs.cmu.edu/~hudson/) and [Jen Mankoff](http://www.cs.cmu.edu/~jmankoff/)
+
+#### New Technologies
+- [Printing Teddy Bears: A Technique for 3D Printing of Soft Interactive Objects](http://www.disneyresearch.com/project/printed-teddy-bears/)
+
+#### Going Beyond the Desktop / Device
+- [Skin Buttons: Cheap, Small, Low-Powered and Clickable Fixed-Icon Laser Projectors](http://www.chrisharrison.net/index.php/Research/Skinbuttons)
+- [Air+Touch: Interweaving In-Air Gestures and Touch](http://vimeo.com/92972949)
+
+#### New Forms of Assistance
+- Virtual coaches: seating coach, stroke therapy, physical therapy, HeadCoach
+- Computational behavioral imaging
+- Embedded sensing for assertive technology: [dwellSense](http://www.dwellsense.com/)
+- Safe driving: [DriveCap](http://www.cmu.edu/qolt/Research/projects/current-projects/drivecap.html), [DriveCap Advisor](http://www.cmu.edu/qolt/AboutQoLTCenter/PressRoom/02_QoLTYr7_Projects_2013-0501.pdf), [Virtual Valet](http://www.cmu.edu/qolt/AboutQoLTCenter/PressRoom/ces-2012/virtual-valet.html)
+
+#### New Solutions to Old Challenges
+- [Creating Interactive Web Data Applications with Spreadsheets](http://www.cs.cmu.edu/~shihpinc/gneiss.html)
+- [PrivacyGrade: Grading the Privacy of Smartphone Apps](http://www.privacygrade.org)
+- [Knock x Knock: The Design and Evaluation of a Unified Authentication Management System](https://www.hcii.cmu.edu/hcii20/poster-and-demo-session) *(still in progress)*
+- [DataSquid](http://datasquid.co/) and [Kinetica: Naturalistic Multi-touch Data Visualization](http://jeffrz.com/wp-content/uploads/2014/01/paper1472.pdf)
