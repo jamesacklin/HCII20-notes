@@ -71,3 +71,8 @@ Design submitted to critique, collect and aggregate critiques from crowd workers
 - [PrivacyGrade: Grading the Privacy of Smartphone Apps](http://www.privacygrade.org)
 - [Knock x Knock: The Design and Evaluation of a Unified Authentication Management System](https://www.hcii.cmu.edu/hcii20/poster-and-demo-session) *(still in progress)*
 - [DataSquid](http://datasquid.co/) and [Kinetica: Naturalistic Multi-touch Data Visualization](http://jeffrz.com/wp-content/uploads/2014/01/paper1472.pdf)
+
+- - - 
+
+# HCII: The History and Future of the Department
+Panel discussion.
